@@ -1,10 +1,15 @@
-# Sentiment-Analysis
-> In the first step select a proper dataset to train your model on.
-> Import the libraries which you would be using further.
-> If you are choosing a platform out of kaggle or any other to work with then you need to either download your dataset or mount it to your drive or use opendatasets options.
-> I used opendatasets option in my code.
-> To train upon the model, we need first pre-process our data to make it clean and fit for the model.
-> Split the entire dataset to training and testing parts.
-> Select a model that provides highest accuracy then train it with the dataset.
-> I chose Logistic Regression as this model gave me an accuracy of 87%.
-> Tadaaaa end!!!!!
+SENTIMENT ANALYSIS PROJECT
+
+This project aims to perform sentiment analysis on text data using machine learning algorithms. Sentiment analysis is the process of determining the sentiment (positive, negative, or neutral) expressed in a piece of text. This project uses Python and several libraries to preprocess text data, train machine learning models, and evaluate their performance.
+
+OVERVIEW
+
+Sentiment analysis is a valuable tool for understanding public opinion, customer feedback, and social media sentiment. By analyzing text data from various sources, we can gain insights into how people feel about certain topics, products, or events.
+
+TOOLS AND LIBRARIES USED
+
+NumPy and pandas: For data manipulation and analysis.
+matplotlib and seaborn: For data visualization.
+scikit-learn: For machine learning model training and evaluation.
+BeautifulSoup: For parsing HTML and extracting text data.
+NLTK: For natural language processing tasks such as stopwords removal and text tokenization.
